@@ -2,3 +2,10 @@
 /data/factorbookMotifPwm.txt
 *.fa
 /data/boundseqs.txt
+*.fa.EP
+*.fa.HelT
+*.fa.MGW
+*.fa.ProT
+*.fa.Roll
+*.pkl
+*.txt
